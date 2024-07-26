@@ -4,9 +4,9 @@
 
 # Tour app in React js<br/>
 
-<img src = "screenshots/Screenshot56.png" height="600">
-<img src = "screenshots/Screenshot58.png" height="600">
-<img src = "screenshots/Screenshot57.png" height="600">
+<img src = "src/screenshots/Screenshot56.png" height="600">
+<img src = "src/screenshots/Screenshot58.png" height="600">
+<img src = "src/screenshots/Screenshot57.png" height="600">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
